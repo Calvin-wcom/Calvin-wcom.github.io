@@ -1,0 +1,6 @@
+/public/
+/resources/
+/node_modules/
+.DS_Store
+.vscode/settings.json
+hugo_build.lock
